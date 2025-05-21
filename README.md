@@ -2,7 +2,7 @@
 
 A **React-based tool** that simulates and visualizes pre- and post-harvesting capital gains by selecting crypto or equity holdings. It helps users understand the potential tax benefits of harvesting losses.
 
-
+link:https://tax-hackr.vercel.app/
 
 ---
 
@@ -34,8 +34,6 @@ cd tax-loss-harvesting-tool
 npm install
 npm start
 
-
-## Important Note
 ```
 This tool is for illustrative purposes only.
 
